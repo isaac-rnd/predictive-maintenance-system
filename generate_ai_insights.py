@@ -5,7 +5,7 @@ from fpdf import FPDF
 def generate_insights(data_dict, result, confidence):
     api_url = "https://api.cohere.ai/generate"
     headers = {
-        "Authorization": "Bearer mnrOpaYGZCOEzbFPJV1OL5c8Nhk2GeCHwFNRpIMX",
+        "Authorization": "Bearer",
         "Content-Type": "application/json"
     }
 

@@ -63,7 +63,7 @@ def play_audio(file_path):
 def shorten_keyinsights_and_warn(key_insights):
     api_url = "https://api.cohere.ai/generate"
     headers = {
-        "Authorization": "Bearer JyfxbqTxFAevAIQqO5iOhOKUnUxHorr8jZTQGqTT",
+        "Authorization": "Bearer ",
         "Content-Type": "application/json"
     }
 

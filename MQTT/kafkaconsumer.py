@@ -74,7 +74,7 @@ all_messages = fetch_all_entries()
     
 # def generate_insights(data_dict, result, confidence):
 #     api_url = "https://api-inference.huggingface.co/models/your-model"
-#     headers = {"Authorization": "Bearer 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"}  
+#     headers = {"Authorization": "Bearer "}  
 
 #     # Prepare the input for the model
 #     input_data = {
