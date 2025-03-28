@@ -18,6 +18,9 @@ The **Predictive Maintenance System** leverages AI/ML and real-time analytics to
 - **Infrastructure:** Terraform for IaC, Azure DevOps for CI/CD pipelines
 - **Frontend (Optional):** React.js for data visualization
 
+## Architechture Diagram
+![alt text](image.png) 
+
 ## Getting Started
 ### Prerequisites
 - Azure Subscription
